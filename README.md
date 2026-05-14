@@ -20,7 +20,7 @@
 - **Стек:** Python, Flask, PostgreSQL, Bootstrap, SQLAlchemy.
 - **Моя роль:** Архитектор, Fullstack-разработчик, Database-разработчик
 
-[👉 Ссылка на репозиторий с проектом]
+[https://github.com/fous11/First-Project-MeeAir]
 
 ---
 
