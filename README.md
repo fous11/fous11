@@ -6,15 +6,17 @@
 
 ---
 
-## 🛠 Технологии
+## <img width="25" height="25" alt="Без имени-1" src="https://github.com/user-attachments/assets/191761f6-048b-4407-afe5-d0e68f5cef51" /> Технологии
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23000.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+
 ---
 
-## Флагманский проект: MeeAir
+## <img width="25" height="25" alt="Без имени-1" src="https://github.com/user-attachments/assets/45f0f86b-e0f7-45cd-a80e-23327dcf0b30" /> Флагманский проект: MeeAir
 
 - **Суть:** Система бронирования и управления услугами авиакомпании
 - **Стек:** Python, Flask, PostgreSQL, Bootstrap, SQLAlchemy.
@@ -24,7 +26,7 @@
 
 ---
 
-## Soft Skills & Лидерство
+## <img width="25" height="25" alt="Без имени-1" src="https://github.com/user-attachments/assets/5a8c21e2-534e-44f9-b08c-a72e57b1a3d8" /> Soft Skills & Лидерство
 На защите первых курсовых проектов я выступал в роли **капитана команды** по разработке игры, что подтверждено сертификатом компетенций:
 *   **Management:** Успешное распределение задач и контроль сроков.
 *   **Mentoring:** Помощь участникам команды в освоении стека технологий.
